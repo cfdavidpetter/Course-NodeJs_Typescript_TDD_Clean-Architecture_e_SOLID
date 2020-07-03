@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cfdavidpetter/Course-NodeJs_Typescript_TDD_Clean-Architecture_e_SOLID/issues"
   },
-  "homepage": "https://github.com/cfdavidpetter/Course-NodeJs_Typescript_TDD_Clean-Architecture_e_SOLID#readme"
+  "homepage": "https://github.com/cfdavidpetter/Course-NodeJs_Typescript_TDD_Clean-Architecture_e_SOLID#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^2.4.4"
+  }
 }
