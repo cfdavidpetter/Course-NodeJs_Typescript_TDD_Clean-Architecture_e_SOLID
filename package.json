@@ -1,0 +1,19 @@
+{
+  "name": "course-nodejs-ts",
+  "version": "1.0.0",
+  "description": "NodeJs, Typescript, TDD, Clean Architecture e SOLID",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfdavidpetter/Course-NodeJs_Typescript_TDD_Clean-Architecture_e_SOLID.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfdavidpetter/Course-NodeJs_Typescript_TDD_Clean-Architecture_e_SOLID/issues"
+  },
+  "homepage": "https://github.com/cfdavidpetter/Course-NodeJs_Typescript_TDD_Clean-Architecture_e_SOLID#readme"
+}
